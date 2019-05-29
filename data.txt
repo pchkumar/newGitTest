@@ -1,0 +1,6 @@
+sean,25,3
+katy,15,4
+zac,16,2
+adam,22,5
+test,1,1
+fries,1,15
