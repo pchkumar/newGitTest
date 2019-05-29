@@ -5,3 +5,4 @@ adam,22,5
 test,1,1
 fries,1,15
 burger,5,6
+pop,7,3
